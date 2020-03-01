@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d1e8be8-f374-43f0-b682-48def2cf6e1e" name="Default Changelist" comment="" />
+    <list default="true" id="98fec782-cb1f-4729-a3ab-ac162d0049da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1YWN8QvCjDjCgefjwRghRiZOvXP" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YWSnYJBR9bHuMeRL5RMwFxleQC" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../persistance-tp1-alanfavre" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -26,17 +33,37 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Main" />
+      <module name="todo-list-alanfavre-tp2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d1e8be8-f374-43f0-b682-48def2cf6e1e" name="Default Changelist" comment="" />
-      <created>1583054230411</created>
+      <changelist id="98fec782-cb1f-4729-a3ab-ac162d0049da" name="Default Changelist" comment="" />
+      <created>1583057024151</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583054230411</updated>
-      <workItem from="1583054233959" duration="318000" />
+      <updated>1583057024151</updated>
+      <workItem from="1583057027107" duration="1599000" />
     </task>
     <servers />
   </component>
