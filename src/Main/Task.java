@@ -20,6 +20,56 @@ public class Task
         this.resolution = resolution;
     }
 
+    public Creator getCreator()
+    {
+        return creator;
+    }
+
+    public String getDescription()
+    {
+        return description;
+    }
+
+    public Date getDate()
+    {
+        return date;
+    }
+
+    public Status getStatus()
+    {
+        return status;
+    }
+
+    public Resolution getResolution()
+    {
+        return resolution;
+    }
+
+    public void setCreator(Creator creator)
+    {
+        this.creator = creator;
+    }
+
+    public void setDescription(String description)
+    {
+        this.description = description;
+    }
+
+    public void setDate(Date date)
+    {
+        this.date = date;
+    }
+
+    public void setStatus(Status status)
+    {
+        this.status = status;
+    }
+
+    public void setResolution(Resolution resolution)
+    {
+        this.resolution = resolution;
+    }
+
     @Override
     public String toString()
     {
